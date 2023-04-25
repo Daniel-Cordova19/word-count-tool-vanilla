@@ -7,3 +7,4 @@ button.addEventListener('click', function(){
 
     outputDiv.innerHTML = `<h1>${count}</h1>`
 });
+
